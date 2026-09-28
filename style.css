@@ -1,0 +1,18 @@
+.menu{
+ display: none;
+list-style: none;
+padding: 10px;
+background: #f0f0f0;
+ width: 200px;
+ }
+.menu.open {
+ display: block;
+}
+.menu-item {
+ padding: 8px;
+cursor: pointer;
+ }
+.menu-item.active {
+background-color: #007bff;
+ color: white;
+}

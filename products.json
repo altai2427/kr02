@@ -1,0 +1,6 @@
+[  { "id": 1, "name": "беспроводные наушники", "price": 4500, "inStock": true },
+  { "id": 2, "name": "мышь", "price": 2300, "inStock": false },
+  { "id": 3, "name": "клавиатура", "price": 6800, "inStock": true },
+  { "id": 4, "name": "Коврик ", "price": 1200, "inStock": false },
+  { "id": 5, "name": "Монитор", "price": 14900, "inStock": true }
+]
